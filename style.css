@@ -1,0 +1,24 @@
+/*
+Theme Name: Harry Marshmallow
+Theme URI: https://github.com/bliti/hm-wp-theme
+Description: The harrymarshmallow.com theme.
+Author: Pablo Rivera
+Author URI: http://526tech.com
+Version: 1.0
+Tags: responsive, harry marshmallow, bootstrap
+
+License: None
+License URI: None
+
+Uses Nootstrap 3.3.4
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+body { 
+     padding-top: 60px; 
+     padding-bottom: 40px; 
+}
+
+ 
+
