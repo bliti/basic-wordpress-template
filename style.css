@@ -1,16 +1,16 @@
 /*
-Theme Name: Harry Marshmallow
-Theme URI: https://github.com/bliti/hm-wp-theme
-Description: The harrymarshmallow.com theme.
+Theme Name: Basic Wordpress Template
+Theme URI: https://github.com/bliti/basic-wordpress-template/
+Description: Basic Wordpress Theme with bootstrap already setup.
 Author: Pablo Rivera
 Author URI: http://526tech.com
 Version: 1.0
-Tags: responsive, harry marshmallow, bootstrap
+Tags: basic, responsive, bootstrap, barebones
 
-License: None
-License URI: None
+License: GPL V2
+License URI: https://github.com/bliti/basic-wordpress-template/blob/master/LICENSE
 
-Uses Nootstrap 3.3.4
+Uses Bootstrap 3.3.4
 */
 
 @import url('bootstrap/css/bootstrap.css'); 
